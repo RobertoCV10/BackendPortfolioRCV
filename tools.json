@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "C++",
+    "image": "/Assets/tools/C.png"
+  },
+  {
+    "id": 2,
+    "title": "Arduino",
+    "image": "/Assets/tools/arduino.png"
+  },
+  {
+    "id": 3,
+    "title": "Python",
+    "image": "/Assets/tools/python.png"
+  },
+  {
+    "id": 4,
+    "title": "Raspberry Pi",
+    "image": "/Assets/tools/raspberry.png"
+  },
+  {
+    "id": 5,
+    "title": "SolidWorks",
+    "image": "/Assets/tools/solid.png"
+  },
+  {
+    "id": 6,
+    "title": "Electronics",
+    "image": "/Assets/tools/electronic.png"
+  },
+  {
+    "id": 7,
+    "title": "UART",
+    "image": "/Assets/tools/uart.png"
+  },
+  {
+    "id": 8,
+    "title": "Control sytem",
+    "image": "/Assets/tools/control.png"
+  },
+  {
+    "id": 9,
+    "title": "Ubuntu",
+    "image": "/Assets/tools/ubuntu.png"
+  },
+  {
+    "id": 10,
+    "title": "TIA portal",
+    "image": "/Assets/tools/tia.jpg"
+  },
+  {
+    "id": 11,
+    "title": "Industrial automation",
+    "image": "/Assets/tools/plc.png"
+  },
+  {
+    "id": 12,
+    "title": "In-sight Explorer",
+    "image": "/Assets/tools/insight.png"
+  }
+]

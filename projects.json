@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Industrial automation",
+    "image": "/Assets/plc/cover.png",
+    "tags": ["Robotics", "Automation","Software","PLC"],
+    "description": "Metal and plastic pieces collection machine with quality filter",
+    "url": "../plc"
+  },
+  {
+    "id": 2,
+    "title": "Multi-task Mobile Robot",
+    "image": "/Assets/Task/task2.png",
+    "tags": ["Robotics", "Automation", "Software","Mechanics"],
+    "description": "Autonomous Mobile Robot with ROS and Computer Vision",
+    "url": "../task"
+  },
+  {
+    "id": 3,
+    "title": "6-Axis Robotic arm",
+    "image": "/Assets/6AxisArm/arm.jpg",
+    "tags": ["Robotics", "Electronics", "Automation", "Software"],
+    "description": "Robtic arm using Atmega to recreate a pick-and place robot.",
+    "url": "../arm"
+  },
+  {
+    "id": 4,
+    "title": "Rocket data monitoring",
+    "image": "/Assets/Rocket/rocket.jpg",
+    "tags": ["Robotics", "Software", "Internship"],
+    "description": "Developing an experimental didactic rocket.",
+    "url": "../rocket"
+  },
+  {
+    "id": 5,
+    "title": "Maze-solving Robot",
+    "image": "/Assets/Maze/Yesenia2.png",
+    "tags": ["Robotics", "Algorithms", "Electronics"],
+    "description": "An autonomous robot that solves mazes.",
+    "url": "../maze"
+  }
+]
