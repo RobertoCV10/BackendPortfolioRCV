@@ -58,5 +58,33 @@
     "id": 12,
     "title": "In-sight Explorer",
     "image": "/Assets/tools/insight.png"
+  },
+
+
+
+  {
+    "id": 13,
+    "title": "JavaScript",
+    "image": "/Assets/tools/JS.png"
+  },
+  {
+    "id": 14,
+    "title": "Mongodb",
+    "image": "/Assets/tools/mongodb.png"
+  },
+  {
+    "id": 15,
+    "title": "Nodejs",
+    "image": "/Assets/tools/nodeJS.png"
+  },
+  {
+    "id": 16,
+    "title": "React",
+    "image": "/Assets/tools/react.png"
+  },
+  {
+    "id": 17,
+    "title": "MUI",
+    "image": "/Assets/tools/MUI.png"
   }
 ]
