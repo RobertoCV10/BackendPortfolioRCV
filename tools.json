@@ -86,5 +86,17 @@
     "id": 17,
     "title": "MUI",
     "image": "/Assets/tools/MUI.png"
+  },
+
+  {
+    "id": 18,
+    "title": "Electron",
+    "image": "/Assets/tools/electron.png"
+  },
+  {
+    "id": 19,
+    "title": "TypeScript",
+    "image": "/Assets/tools/TS.png"
   }
+
 ]
