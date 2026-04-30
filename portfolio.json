@@ -9,11 +9,11 @@
   },
   {
     "id": 2,
-    "title": "Portfolio 2",
-    "image": "/webpage/Assets/Portfolio2/image.png",
-    "tags": ["Algorithms", "App"],
-    "description": "Bla bla bla.",
-    "url": "/portfolio/2"
+    "title": "Mantech Labs",
+    "image": "/Assets/MantechLabs/mantechLabs.png",
+    "tags": ["Algorithms", "App", "React", "Material UI", "Node.js", "Typescript"],
+    "description": "Windows Desktop app for optimizing Windows with a gaming mode and system maintenance features.",
+    "url": "../MantechLabs"
   },
   {
     "id": 3,
