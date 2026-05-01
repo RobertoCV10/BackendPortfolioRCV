@@ -18,25 +18,9 @@
   {
     "id": 3,
     "title": "Mantech Google Edition",
-    "image": "/webpage/Assets/MantechGoogle/MantechGoogle.png",
+    "image": "/Assets/MantechGoogle/MantechGoogle.png",
     "tags": ["Google Apps Script", "Google API", "App"],
     "description": "An internal Google Script that allows users to visualize and manage Google Drive storage intuitively within the Google ecosystem.",
     "url": "../MantechGoogleEdition"
-  },
-  {
-    "id": 4,
-    "title": "Portfolio 4",
-    "image": "/webpage/Assets/Portfolio4/image.png",
-    "tags": ["Algorithms", "App"],
-    "description": "Bla bla bla.",
-    "url": "/portfolio/4"
-  },
-  {
-    "id": 5,
-    "title": "Portfolio 5",
-    "image": "/webpage/Assets/Portfolio5/image.png",
-    "tags": ["Algorithms", "App"],
-    "description": "Bla bla bla.",
-    "url": "/portfolio/5"
   }
 ]
