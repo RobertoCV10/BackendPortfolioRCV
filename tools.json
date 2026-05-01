@@ -97,6 +97,22 @@
     "id": 19,
     "title": "TypeScript",
     "image": "/Assets/tools/TS.png"
+  },
+
+  {
+    "id": 20,
+    "title": "Google API",
+    "image": "/Assets/tools/GAPI.png"
+  },
+  {
+    "id": 21,
+    "title": "Google App Script",
+    "image": "/Assets/tools/GAS.png"
+  },
+  {
+    "id": 22,
+    "title": "HTML/CSS/JS vanilla",
+    "image": "/Assets/tools/Trio.png"
   }
 
 ]
