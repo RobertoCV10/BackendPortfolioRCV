@@ -22,5 +22,13 @@
     "tags": ["Google Apps Script", "Google API", "App"],
     "description": "An internal Google Script that allows users to visualize and manage Google Drive storage intuitively within the Google ecosystem.",
     "url": "../MantechGoogleEdition"
+  },
+  {
+    "id": 4,
+    "title": "OTT Studio",
+    "image": "/Assets/ottStudio/ottStudio.png",
+    "tags": ["Google Apps Script", "Google API", "App"],
+    "description": "Interactive dashboard for analyzing OTT platform data, featuring metrics, trends, and content management.",
+    "url": "../ottStudio"
   }
 ]
