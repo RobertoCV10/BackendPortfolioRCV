@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "title": "OTT Studio",
+    "title": "OTT Analytics Dashboard",
     "image": "/Assets/ottStudio/ottStudio.png",
     "tags": ["Google Apps Script", "Google API", "App"],
     "description": "Interactive dashboard for analyzing OTT platform data, featuring metrics, trends, and content management.",
