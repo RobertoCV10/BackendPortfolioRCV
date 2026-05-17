@@ -113,6 +113,10 @@
     "id": 22,
     "title": "HTML/CSS/JS vanilla",
     "image": "/Assets/tools/Trio.png"
+  }, 
+  {
+    "id": 23,
+    "title": "Tailwind CSS",
+    "image": "/Assets/tools/Tailwind.png"
   }
-
 ]

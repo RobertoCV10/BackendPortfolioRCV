@@ -30,5 +30,13 @@
     "tags": ["Google Apps Script", "Google API", "App"],
     "description": "Interactive dashboard for analyzing OTT platform data, featuring metrics, trends, and content management.",
     "url": "../ottStudio"
+  },
+  {
+    "id": 5,
+    "title": "GitScope",
+    "image": "/Assets/GitScope/GitScope.png",
+    "tags": ["Algorithms", "React"],
+    "description": "Interactive dashboard for analyzing Git repository data, featuring metrics, trends, and content management.",
+    "url": "../GitScope"
   }
 ]
